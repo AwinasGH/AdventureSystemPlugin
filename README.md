@@ -1,2 +1,2 @@
 # AdventureSystemPlugin
-UE Plugin for managing location
+UE Plugin for location-system
